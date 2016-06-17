@@ -2,7 +2,7 @@
 ### Proyecto Diseño Sistemas Controlados por Computador.
 
 # Grupo:
-⋅⋅*  Angel Guale
-⋅⋅* Fausto Mora 
-⋅⋅* William Coronel
+1.  Angel Guale
+2.  Fausto Mora 
+3.  William Coronel
 
