@@ -1,0 +1,11 @@
+<Glide Version="1.0.7">
+  <Window Name="ventana" Width="320" Height="240" BackColor="D7E2E2">
+    <TextBlock Name="instance523" X="23" Y="31" Width="50" Height="32" Alpha="255" Text="ON" TextAlign="Left" TextVerticalAlign="Top" Font="6" FontColor="129E00" BackColor="000000" ShowBackColor="False"/>
+    <Button Name="btn" X="132" Y="191" Width="60" Height="32" Alpha="255" Text="OFF" Font="5" FontColor="FF0022" DisabledFontColor="808080" TintColor="F5FFA3" TintAmount="F5FFA3"/>
+    <TextBlock Name="instance6779" X="59" Y="2" Width="255" Height="32" Alpha="255" Text="Cafetera Inteligente" TextAlign="Left" TextVerticalAlign="Top" Font="7" FontColor="6B6B6B" BackColor="000000" ShowBackColor="False"/>
+    <TextBlock Name="grado" X="259" Y="30" Width="50" Height="32" Alpha="255" Text="C°" TextAlign="Left" TextVerticalAlign="Top" Font="6" FontColor="FF9A00" BackColor="000000" ShowBackColor="False"/>
+    <TextBlock Name="instance8856" X="286" Y="29" Width="20" Height="32" Alpha="255" Text="0" TextAlign="Left" TextVerticalAlign="Top" Font="6" FontColor="FF9A00" BackColor="000000" ShowBackColor="False"/>
+    <TextBlock Name="pantalla" X="66" Y="92" Width="200" Height="80" Alpha="255" Text="Bienvenido..." TextAlign="Center" TextVerticalAlign="Middle" Font="6" FontColor="ffffff" BackColor="7A9CFF" ShowBackColor="True"/>
+    <Image Name="imagen" X="143" Y="38" Width="40" Height="35" Alpha="255"/>
+  </Window>
+</Glide>
